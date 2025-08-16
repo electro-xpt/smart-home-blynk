@@ -6,8 +6,8 @@ the sample and explanation further about the project is given in the document fl
 check it for further reference
 
 steps to initiate
-install and setup blynk app in smartphone
-download and configure the app with code
-connect the esp8266 and smart phone with same wifi ssid
-create a template and modift the code 
-now test and execute the program and check the output
+install and setup blynk app in smartphone.
+download and configure the app with code.
+connect the esp8266 and smart phone with same wifi ssid.
+create a template and modify the code.
+now test and execute the program and check the output.
