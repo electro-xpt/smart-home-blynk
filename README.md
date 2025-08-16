@@ -2,6 +2,8 @@
 IOT based home appliances control using smartphone
 the main tool is esp8266 wifi dev board
 
+the sample and explanation further about the project is given in the document flie
+check it for further reference
 
 steps to initiate
 install and setup blynk app in smartphone
